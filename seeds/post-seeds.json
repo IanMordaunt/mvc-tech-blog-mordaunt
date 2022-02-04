@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Tech Magazine",
+      "content": "A magainze focusing on the newest technology.",
+      "user_id": 1
+    },
+    {
+      "title": "Codecademy",
+      "content": "A website that helps aspiring developers learn how to code im multiple languages.",
+      "user_id": 2
+    },
+    {
+      "title": "Tech Blog",
+      "content": "A blog about Tech.",
+      "user_id": 3
+    }
+  ]
