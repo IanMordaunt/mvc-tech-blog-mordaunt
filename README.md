@@ -23,7 +23,7 @@
 
   ## Links
 
-  GitHub Repository: https://github.com/IanMordaunt/Tech-Blog
+  GitHub Repository: https://github.com/IanMordaunt/mvc-tech-blog-mordaunt
   
   Heroku Deploy: https://mvc-tech-block-ian.herokuapp.com/
 
