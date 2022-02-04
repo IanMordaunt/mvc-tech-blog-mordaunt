@@ -25,7 +25,7 @@
 
   GitHub Repository: https://github.com/IanMordaunt/Tech-Blog
   
-  Heroku Deploy: 
+  Heroku Deploy: https://mvc-tech-block-ian.herokuapp.com/
 
   <a name='installation'></a>
   ## Installation
